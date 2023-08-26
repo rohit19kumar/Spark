@@ -1,2 +1,2 @@
 # Spark
-This tutorial is made to explore the use of Spark engines
+This tutorial is made to explore the use of Apache Spark engines
